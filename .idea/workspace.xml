@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ccb5a96-e860-47e2-9b7a-ab0562e64f82" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,8 +74,8 @@
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="119">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -391,7 +390,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginIE">
+  <component name="RunManager" selected="TestNG.Login">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -454,93 +453,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="LoginChrome" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.duong.demo.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.duong.demo.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.duong.demo.testcases.LoginChrome" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="LoginIE" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.duong.demo.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.duong.demo.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.duong.demo.testcases.LoginIE" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="Login.login" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.duong.demo.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.duong.demo.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.duong.demo.testcases.Login" />
-      <option name="METHOD_NAME" value="login" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -565,17 +477,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.temp" />
-      <item itemvalue="TestNG.Login.login" />
-      <item itemvalue="TestNG.LoginChrome" />
       <item itemvalue="TestNG.Login" />
-      <item itemvalue="TestNG.LoginIE" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginIE" />
-        <item itemvalue="TestNG.LoginChrome" />
         <item itemvalue="TestNG.Login" />
-        <item itemvalue="TestNG.Login.login" />
         <item itemvalue="Application.temp" />
       </list>
     </recent_temporary>
@@ -594,7 +500,7 @@
       <workItem from="1525829447860" duration="6531000" />
       <workItem from="1525836152744" duration="799000" />
       <workItem from="1525837076155" duration="5359000" />
-      <workItem from="1525844143636" duration="714000" />
+      <workItem from="1525844143636" duration="1353000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1525842364465</created>
@@ -617,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525844458303</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1525844868376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525844868376</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -653,11 +566,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15158000" />
+    <option name="totallyTimeSpent" value="15797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1028,8 +940,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
