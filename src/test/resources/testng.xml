@@ -6,14 +6,14 @@
       <class name="demo.testcases.Login"/>
     </classes>
   </test>
-  <test name="Chrome Login">
-    <classes>
-      <class name="demo.testcases.LoginChrome"/>
-    </classes>
-  </test>
-  <test name="IE Login">
-    <classes>
-      <class name="demo.testcases.LoginIE"/>
-    </classes>
-  </test>
+  <!--<test name="Chrome Login">-->
+    <!--<classes>-->
+      <!--<class name="demo.testcases.LoginChrome"/>-->
+    <!--</classes>-->
+  <!--</test>-->
+  <!--<test name="IE Login">-->
+    <!--<classes>-->
+      <!--<class name="demo.testcases.LoginIE"/>-->
+    <!--</classes>-->
+  <!--</test>-->
 </suite>
