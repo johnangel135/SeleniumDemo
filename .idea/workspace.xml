@@ -309,7 +309,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+          <PATH vcs="Git" revision="" />
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -612,7 +612,7 @@
       <workItem from="1525827576873" duration="1755000" />
       <workItem from="1525829447860" duration="6531000" />
       <workItem from="1525836152744" duration="799000" />
-      <workItem from="1525837076155" duration="5095000" />
+      <workItem from="1525837076155" duration="5359000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1525842364465</created>
@@ -657,7 +657,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14180000" />
+    <option name="totallyTimeSpent" value="14444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -672,12 +672,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32955465" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="HDInsight Spark Submission" order="7" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3291592" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3291592" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.68515205" />
       <window_info anchor="bottom" id="Azure Activity Log" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291592" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3165992" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3165992" />
       <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
       <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="7" />
       <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" order="7" />
@@ -708,13 +708,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/duong/demo/testcases/Login.java</url>
+          <url />
           <line>34</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/duong/demo/testcases/Login.java</url>
+          <url />
           <line>28</line>
           <properties />
           <option name="timeStamp" value="11" />
