@@ -1,7 +1,7 @@
 package demo.helper;
 
 import au.com.bytecode.opencsv.CSVReader;
-import javafx.util.Pair;
+
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -14,14 +14,6 @@ public class CSVRead implements IReadData {
     public CSVRead(FileReader fileReader){
         reader = new CSVReader(fileReader);
     }
-
-    @Override
-    public Pair<String, String> readElement() throws IOException {
-        String[] row = null;
-        row = reader.readNext();
-        return new Pair<>(row[0], row[1]);
-    }
-
     @Override
     public HashMap<String, String> readAllElement() throws IOException {
         HashMap<String, String> data = new HashMap<>();
