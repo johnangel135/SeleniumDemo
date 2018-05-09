@@ -1,0 +1,8 @@
+browser,ie
+url,https://www.kroger.com/
+siginbtn,.SignInPanel-signInBtn
+checksignin,.SignInContainer
+email,johnangel135@gmail.com
+emailElement,#SignIn-emailInput
+password,Test@123
+passwordElement,#SignIn-passwordInput
